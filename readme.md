@@ -2,7 +2,7 @@ The **In-Game Replay System** allow you to **record the transform** (position, r
 
 You just need to add the script **"ReplayEntity"** to the objects you want to replay.
 
-Here's what it do:
+Here's what it does:
 
 ![](https://giant.gfycat.com/FilthyBrownBustard.gif)
 ![](https://thumbs.gfycat.com/DeliciousJampackedHogget-size_restricted.gif)
