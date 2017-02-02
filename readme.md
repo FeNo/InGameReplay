@@ -8,7 +8,7 @@ Here's what it do:
 ![](https://thumbs.gfycat.com/DeliciousJampackedHogget-size_restricted.gif)
 
 
-The project contain an example scene:
+The project contains an example scene:
 
 ![](https://zippy.gfycat.com/PowerfulInnocentIrishwaterspaniel.gif)
 
