@@ -84,7 +84,7 @@ namespace Replay
 
 	public class ReplayEntity : MonoBehaviour
 	{
-		private RecordData data = new RecordData ();
+		public RecordData data = new RecordData ();
 
 		private Rigidbody rigidbody;
 		private NavMeshAgent agent;
