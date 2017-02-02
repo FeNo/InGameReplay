@@ -5,7 +5,7 @@ You just need to add the script "ReplayEntity" to the objects you want to replay
 Here's what it do:
 
 ![](https://giant.gfycat.com/FilthyBrownBustard.gif)
-![](https://giant.gfycat.com/DeliciousJampackedHogget.gif)
+![](https://thumbs.gfycat.com/DeliciousJampackedHogget-size_restricted.gif)
 
 
 The project contain an example scene:
